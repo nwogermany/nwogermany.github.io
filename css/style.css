@@ -1,0 +1,318 @@
+/* GitHub Pages - NWO Deutschland Enthüllung */
+/* Modern Design with High Contrast */
+
+:root {
+    --color-bg-primary: #0a0a0f;
+    --color-bg-secondary: #12121a;
+    --color-bg-card: #1a1a25;
+    --color-accent-red: #ff3333;
+    --color-accent-gold: #ffd700;
+    --color-text-primary: #ffffff;
+    --color-text-secondary: #b0b0b0;
+    --color-text-muted: #808080;
+    --color-border: #2a2a3a;
+    --color-warning: #ff6b35;
+    --color-danger: #dc2626;
+    --color-success: #22c55e;
+    --font-primary: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    --font-mono: 'Consolas', 'Monaco', monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-primary);
+    background: var(--color-bg-primary);
+    color: var(--color-text-primary);
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+/* Header */
+.header {
+    background: linear-gradient(135deg, var(--color-bg-secondary) 0%, var(--color-bg-primary) 100%);
+    border-bottom: 3px solid var(--color-accent-red);
+    padding: 2rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--color-accent-red);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 0.5rem;
+}
+
+.header-subtitle {
+    color: var(--color-accent-gold);
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* Navigation */
+.nav {
+    background: var(--color-bg-secondary);
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.nav-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.nav a {
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.nav a:hover {
+    color: var(--color-accent-red);
+    background: var(--color-bg-card);
+}
+
+/* Main Content */
+.main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+}
+
+/* Warning Box */
+.warning-box {
+    background: linear-gradient(135deg, #2d1810 0%, #1a0f0a 100%);
+    border: 2px solid var(--color-warning);
+    border-radius: 8px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+.warning-box h2 {
+    color: var(--color-warning);
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.warning-box p {
+    color: var(--color-text-secondary);
+    font-size: 1.1rem;
+}
+
+/* Sections */
+.section {
+    margin-bottom: 4rem;
+}
+
+.section h2 {
+    color: var(--color-accent-red);
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--color-accent-red);
+}
+
+.section h3 {
+    color: var(--color-accent-gold);
+    font-size: 1.4rem;
+    margin: 2rem 0 1rem 0;
+}
+
+.section p {
+    margin-bottom: 1.5rem;
+    color: var(--color-text-primary);
+    text-align: justify;
+}
+
+/* Cards */
+.card {
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 30px rgba(255, 51, 51, 0.2);
+    border-color: var(--color-accent-red);
+}
+
+.card h3 {
+    color: var(--color-accent-red);
+    margin-top: 0;
+}
+
+/* Person Links */
+.person-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: linear-gradient(135deg, var(--color-accent-red) 0%, #cc0000 100%);
+    color: white;
+    text-decoration: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    font-weight: 600;
+    margin: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.person-link:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(255, 51, 51, 0.4);
+}
+
+/* Stats Grid */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.stat-card {
+    background: var(--color-bg-card);
+    border: 2px solid var(--color-accent-gold);
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.stat-number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--color-accent-red);
+    display: block;
+}
+
+.stat-label {
+    color: var(--color-text-secondary);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+/* Evidence Table */
+.evidence-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    background: var(--color-bg-card);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.evidence-table th {
+    background: var(--color-accent-red);
+    color: white;
+    padding: 1rem;
+    text-align: left;
+    font-weight: 700;
+}
+
+.evidence-table td {
+    padding: 1rem;
+    border-bottom: 1px solid var(--color-border);
+    color: var(--color-text-primary);
+}
+
+.evidence-table tr:hover {
+    background: var(--color-bg-secondary);
+}
+
+/* Source Links */
+.source-link {
+    color: var(--color-accent-gold);
+    text-decoration: none;
+    font-weight: 600;
+    border-bottom: 1px dotted var(--color-accent-gold);
+    transition: all 0.3s ease;
+}
+
+.source-link:hover {
+    color: var(--color-accent-red);
+    border-bottom-color: var(--color-accent-red);
+}
+
+/* Footer */
+.footer {
+    background: var(--color-bg-secondary);
+    border-top: 2px solid var(--color-accent-red);
+    padding: 3rem 0;
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.footer p {
+    color: var(--color-text-muted);
+    margin-bottom: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 1.8rem;
+    }
+    
+    .main {
+        padding: 2rem 1rem;
+    }
+    
+    .nav-content {
+        gap: 1rem;
+    }
+    
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--color-bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--color-accent-red);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #ff5555;
+}
+
+/* Selection */
+::selection {
+    background: var(--color-accent-red);
+    color: white;
+}
