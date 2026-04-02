@@ -132,9 +132,7 @@
 | WAHRHEIT.TXT Zeile | Korrelation |
 |-------------------|-------------|
 | Zeile 17 | „Zensery... sind KI-Musiker und keine echten Personen" - **Explizit bestätigt** |
-| Zeile 30 | „Backdating" - **Mögliche Erklärung für 2016** |
-| Zeile 33 | „KI-Unterstützung ab 2017" - **Zeitliche Diskrepanz (1 Jahr)** |
-| Zeile 34 | „Vollständig KI ab 2021" - **Mögliche Entwicklung** |
+| Zeile 30 | „Backdating (2019/2020 bis erster Auftritt)" - **Mögliche Entwicklung** |
 
 ## Zeitliche Validierung
 

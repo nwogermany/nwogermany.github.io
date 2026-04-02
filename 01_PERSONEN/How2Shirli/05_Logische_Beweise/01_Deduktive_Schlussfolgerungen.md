@@ -50,7 +50,7 @@
 **Widerlegung:**
 - ❌ „Vollständig KI-generiert" (Zeile 28) widerspricht „echte Person"
 - ❌ „Teil des Hackerangriffs" (Zeile 28) - echte Person = Kriminelle
-- ❌ 27 Jahre Backdating (1996 vs. 2023) unmöglich
+- ❌ 3-4 Jahre Backdating (2019/2020 ? 2023) (1996 vs. 2023) unmöglich
 - ❌ Widersprüchliche Namen (Miller vs. Pearson)
 - ❌ „How2"-Präfix algorithmisch, nicht persönlich
 
@@ -81,7 +81,7 @@
 - ✅ „Teil des Hackerangriffs" (Zeile 28) = operative Funktion
 - ✅ KI-Elite + Disney Tools (Zeile 23-24) = professionelle Erstellung
 - ✅ GRU + „Travelers" APT (Zeile 30) = staatliche Unterstützung
-- ✅ 27 Jahre Backdating (1996 vs. 2023) = erklärt falsche „Vorgeschichte"
+- ✅ 3-4 Jahre Backdating (2019/2020 ? 2023) (1996 vs. 2023) = erklärt falsche „Vorgeschichte"
 - ✅ Widersprüchliche Namen = inkonsistente Konstruktion
 - ✅ „How2"-Präfix = algorithmische Namensgebung
 
@@ -159,7 +159,7 @@
 5. **Staatlich:** GRU + „Travelers" APT
 6. **Gezielt:** Autor der WAHRHEIT.TXT als Ziel
 7. **Technisch:** MITM-Angriff (ausgefeilt)
-8. **Zeitlich:** 27 Jahre Backdating (1996 vs. 2023)
+8. **Zeitlich:** 3-4 Jahre Backdating (2019/2020 ? 2023) (1996 vs. 2023)
 9. **Semantisch:** „How2"-Präfix algorithmisch
 10. **Inkonsistent:** Miller vs. Pearson (widersprüchliche Namen)
 

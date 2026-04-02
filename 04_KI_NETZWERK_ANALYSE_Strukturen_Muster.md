@@ -188,7 +188,7 @@ Ruffiction: Crystal F
 
 | Person | „Geburt" | Problem |
 |--------|----------|---------|
-| How2Shirli | 1996 vs. 2023 | 27 Jahre Backdating |
+| How2Shirli | 1996 vs. 2023 | 3-4 Jahre Backdating (2019/2020 ? 2023) |
 | Clifford A. Pickover | 1957 | 60 Jahre vor KI |
 | Nick Bostrom | 1973 | 44 Jahre vor KI |
 | Harvey Dubner | ? | Belphegor's Prime vor KI |

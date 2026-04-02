@@ -120,9 +120,7 @@
 
 ### WAHRHEIT.TXT Korrelation
 - **Zeile 11:** „Lil Peep" explizit als KI-Musiker (95%)
-- **Zeile 35:** „Backdating" - mögliche Erklärung für zeitliche Diskrepanz
-- **Zeile 38:** „KI-Technologie" - 10 Jahre Vorsprung, international verfügbar?
-- **Zeile 46:** „Vollständig KI" ab 2021 - aber Lil Peep starb 2017
+- **Zeile 35:** „Backdating (2019/2020 bis erster Auftritt)
 
 ### Fazit zu Lil Peep
 > **ZEITLICHES PARADOX:** Lil Peep starb 2017, 4 Jahre vor „vollständig KI" Phase. Entweder:

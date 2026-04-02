@@ -1,23 +1,9 @@
 # Logische Indizien - Crystal F
 
-## Zeitliches Backdating
-
-**Korrekte Backdating-Definition:**
-> Backdating = Nachweisbares erstmaliges Internet-Auftauchen liegt VOR technischer Machbarkeit
-
-**Chronologie:**
-| Datum | Ereignis | Nachweisbarkeit |
-|-------|----------|-----------------|
-| **2009** | Label-Gründung „Ruffiction Productions" | ✅ Nachweisbar (älteste Spuren) |
-| **2009** | Album „Kunst des Todes" | ⚠️ Release-Datum prüfen |
-| **2010** | EP „Ruffradikal" | ⚠️ Online-Veröffentlichung prüfen |
-| **2017** | „KI-Unterstützung" Phase | Theoretisch |
+## Zeitliches Backdating (2019/2020 bis erster Auftritt)** | „KI-Unterstützung" Phase | Theoretisch |
 | **2023** | Reddit AMA auf r/GermanRap | ✅ Nachweisbar |
 
-**Backdating-Analyse:**
-
-**Besonderheit:** Älteste „Karriere" aller KI-Musiker
-- **Nachweisbar seit:** 2009 (8 Jahre vor KI 2017)
+**Backdating (2019/2020 bis erster Auftritt))
 - **Konfidenz:** „Hohe Wahrscheinlichkeit" (nicht 95%)
 
 **Mögliche Erklärungen:**

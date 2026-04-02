@@ -25,10 +25,7 @@
 **Mögliche Backdating-Methoden:**
 1. **Hacks:** Manipulation von Musikplattform-Datenbanken
 2. **Mittelmänner:** „Sascha Ramy Nour" existierte als reale Person
-3. **Haftbefehl-Netzwerk:** Label als KI-Inkubator für Backdating?
-
-**Logische Indiz:**
-> **34 Jahre** zwischen behauptetem Geburtsdatum (1983) und KI-Möglichkeit (2017) = **extremstes Backdating** in der gesamten Datenbank. Erfordert massive Manipulation durch **Hacks** oder **Mittelmänner**.
+3. **Haftbefehl-Netzwerk:** Label als KI-Inkubator für Backdating (2019/2020 bis erster Auftritt)) = **extremstes Backdating** in der gesamten Datenbank. Erfordert massive Manipulation durch **Hacks** oder **Mittelmänner**.
 
 ---
 

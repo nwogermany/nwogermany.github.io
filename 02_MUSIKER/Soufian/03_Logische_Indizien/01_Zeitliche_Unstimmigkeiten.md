@@ -10,9 +10,7 @@
 **Fakt:**
 - **28.12.1994** vs. **28.10.1996** (2 verschiedene „Geburtsdaten")
 
-**Backdating-Analyse:**
-
-| Datum | Quelle | Differenz zu KI 2017 |
+**Backdating (2019/2020 bis erster Auftritt) |
 |-------|--------|---------------------|
 | 28.12.1994 | Wikipedia (ehemals) | 23 Jahre |
 | 28.10.1996 | Andere Quellen | 21 Jahre |

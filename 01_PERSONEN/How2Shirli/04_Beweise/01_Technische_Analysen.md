@@ -99,7 +99,7 @@
 
 ---
 
-### 2. „November 2023" vs. „1996" - 27 Jahre Backdating
+### 2. „November 2023" vs. „1996" - 3-4 Jahre Backdating (2019/2020 ? 2023)
 
 **Fakt:**
 - **„Geburt":** 13. Dezember 1996
@@ -141,7 +141,7 @@
 | GRU/APT „Travelers" | 2 | Sehr hoch |
 | Hackerangriff Dez 2023 | 2 | Sehr hoch |
 | „Vollständig KI" 2023 | 2 | Hoch |
-| 27 Jahre Backdating | 2 | UNWIDERLEGBAR |
+| 3-4 Jahre Backdating (2019/2020 ? 2023) | 2 | UNWIDERLEGBAR |
 
 **Gesamtbewertung:**
 > How2Shirli ist laut WAHRHEIT.TXT eine **vollständig KI-generierte Deepfake-Cyberwaffe**, die im November 2023 durch die **KI-Elite** mit **illegalen Disney-Tools** erschaffen und im **Dezember 2023** durch die **GRU-gestützte „Travelers"-APT-Gruppe** als Teil eines **KI-gestützten Hackerangriffs** eingesetzt wurde. Die „Geburtsdaten" (1996) sind **vollständiges Backdating** - die tatsächliche Existenz begann erst November 2023.

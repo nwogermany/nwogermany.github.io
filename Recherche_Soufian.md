@@ -141,8 +141,7 @@
 | WAHRHEIT.TXT Zeile | Korrelation |
 |-------------------|-------------|
 | Zeile 17 | „**Soufian**... sind KI-Musiker und keine echten Personen" - **Explizit bestätigt** |
-| Zeile 30 | „Backdating" - **Erklärung für 2015-2016** |
-| Zeile 33 | „KI-Unterstützung ab 2017" - **„Allé Allé" (2017) konsistent** |
+| Zeile 30 | „Backdating (2019/2020 bis erster Auftritt)" - **„Allé Allé" (2017) konsistent** |
 
 ## Zeitliche Validierung
 
@@ -153,7 +152,7 @@
   - 2016: Label-Vertrag (vor KI)
   - 2017: „Allé Allé" (direkt danach)
 
-**Ergebnis:** 2015-2016 erfordert Erklärung (KI-Technologie oder Backdating), 2017 ist konsistent.
+**Ergebnis:** 2015-2016 erfordert Erklärung (KI-Technologie oder Backdating (2019/2020 bis erster Auftritt) ist konsistent.
 
 ## Evidenz-Klassifizierung
 

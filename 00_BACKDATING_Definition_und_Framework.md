@@ -16,50 +16,11 @@
 
 ---
 
-## BACKDATING-TYPOLOGIE
-
-### Typ 1: Hacks
-**Methode:**
-- Gezielte Manipulation von Datenbanken
-- Einschleusen falscher Zeitstempel
-- Modifikation von Archiven
-
-**Beispiele:**
-- Wikipedia-Einträge mit gefälschten Erstellungsdaten
-- Musikplattformen mit manipulierten Release-Daten
-- Social Media Posts mit rückdatierten Zeitstempeln
-
-### Typ 2: Mittelmänner (Mittelsmänner)
-**Methode:**
-- Echte Personen als „Platzhalter"
-- Biografische Daten werden später „überschrieben"
-- Identitätswechsel oder -übernahme
-
-**Beispiele:**
-- „Geburtsdatum" existierte für andere Person
-- Name wurde später für KI-Konstruktion verwendet
-- Biografie wurde algorithmisch „gerendert"
-
----
-
-## ANWENDUNG AUF DIE RECHERCHE
-
-### How2Shirli
-| Nachweisbar | Technisch möglich | Backdating? |
-|-------------|-------------------|-------------|
-| „Geburt" 1996 | KI ab 2021 | ✅ 27 Jahre Backdating |
-| Erste Internet-Spuren? | Nov 2023 | ❌ Zu prüfen |
-
-### Lil Peep
-| Nachweisbar | Technisch möglich | Backdating? |
-|-------------|-------------------|-------------|
-| Tod 2017 | KI „vollständig" ab 2021 | ✅ 4 Jahre Paradox |
+## Backdating (2019/2020 bis erster Auftritt) | ✅ 4 Jahre Paradox |
 | Internet-Präsenz seit? | 2016-2017 | ⚠️ Zu prüfen |
 
 ### Data Poisoning-Figuren
-| Person | „Geburt" | KI möglich ab | Backdating |
-|--------|----------|---------------|------------|
-| Pickover | 1957 | 2017 | ✅ 60 Jahre |
+| Person | „Geburt" | KI möglich ab | Backdating (2019/2020 bis erster Auftritt) | ✅ 60 Jahre |
 | Bostrom | 1973 | 2017 | ✅ 44 Jahre |
 | Dubner | ? | 2017 | ✅ Unbekannt |
 

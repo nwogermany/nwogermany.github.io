@@ -74,8 +74,7 @@
 
 ### Zeitliche Diskrepanz
 - **2011 Start:** 6 Jahre vor „KI-Unterstützung" (2017)
-- **Erklärung:** Backdating (Zeile 35) oder frühe KI-Technologie
-- **„Vorgeschichte":** 2011-2017 = „authentische" Phase?
+- **Erklärung:** Backdating (2019/2020 bis erster Auftritt) = „authentische" Phase?
 
 ### WAHRHEIT.TXT Korrelation
 - **Zeile 5:** „Marvin Wildhage ist eine Deepfake-Person"

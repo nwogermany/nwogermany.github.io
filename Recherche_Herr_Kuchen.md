@@ -122,9 +122,7 @@ GESAMT: ~1.728 Stunden = 43 Wochen VOLLZEIT
 | WAHRHEIT.TXT Zeile | Korrelation |
 |-------------------|-------------|
 | Zeile 17 | „Herr Kuchen... sind KI-Musiker und keine echten Personen" - **Explizit bestätigt** |
-| Zeile 30 | „Backdating" - **Erklärt 2013-Auftreten** |
-| Zeile 33 | „KI-Unterstützung ab 2017" - **Zeitliche Diskrepanz zu 2013** |
-| Zeile 34 | „Vollständig KI ab 2021" - **Mögliche Erklärung: „Lebkuchenpferdchen" frühe Phase** |
+| Zeile 30 | „Backdating (2019/2020 bis erster Auftritt)" - **Mögliche Erklärung: „Lebkuchenpferdchen" frühe Phase** |
 
 ## Zeitliche Validierung
 

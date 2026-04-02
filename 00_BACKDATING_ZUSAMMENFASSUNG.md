@@ -59,11 +59,7 @@
 
 ### 6. Disarstar - 23 Jahre
 - 15. Januar 1994 vs. KI 2017
-- „Wandlung"-Narrativ als Backdating-Deckung
-
----
-
-## FRÜHE KI-PHASE (Vor 2017)
+- „Wandlung"-Narrativ als Backdating (2019/2020 bis erster Auftritt))
 
 ### 7. Crystal F - 8 Jahre
 - 2009 vs. KI 2017
